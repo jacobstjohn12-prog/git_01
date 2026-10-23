@@ -30,3 +30,33 @@ And the mome raths outgrabe.
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+In Math 116 we open a project,  
+RStudio waiting, a blank page of text.  
+We type a command, then type one more,  
+And git keeps a ledger of every chore.  
+
+A stanza is saved, then added with care,  
+A commit is a snapshot hanging in air.  
+First verse, then second, then third in a line,  
+The history window ticks like a clock's design.  
+
+Clone from a fork, or start with init,  
+The black shell waits for the words we submit.  
+Status, then add, then a message we choose,  
+So later we know which edits we used.  
+
+Knit to HTML, verses aligned,  
+Two trailing spaces keep each break assigned.  
+If the poem looks jammed into one long stream,  
+Those spaces restore the line-by-line dream.  
+
+Log is a diary, humble and small,  
+Four little commits that capture it all.  
+Close the project, open it new,  
+The Git tab wakes with a history view.  
+
+So here is a poem the workflow grew,  
+Twenty-odd lines of what git can do,  
+From empty headings to verses that stay,  
+Committed in order, then knitted away.  
+
