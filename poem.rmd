@@ -15,61 +15,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-'Twas brillig, and the slithy toves  
-Did gyre and gimble in the wabe:  
-All mimsy were the borogoves,  
-And the mome raths outgrabe.  
-"Beware the Jabberwock, my son!  
+
 ## Second Verse
-<!--Put the first five lines of a Robert Frost poem here!-->
-Two roads diverged in a yellow wood,  
-And sorry I could not travel both  
-And be one traveler, long I stood  
-And looked down one as far as I could  
-To where it bent in the undergrowth;  
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
-The sun was shining on the sea,  
-Shining with all his might:  
-He did his very best to make  
-The billows smooth and bright --  
-And this was odd, because it was  
-The middle of the night.  
 
-The moon was shining sulkily,  
-Because she thought the sun  
-Had got no business to be there  
-After the day was done --  
-"It's very rude of him," she said,  
-"To come and spoil the fun."  
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
-In Math 116 we open a project,  
-RStudio waiting, a blank page of text.  
-We type a command, then type one more,  
-And git keeps a ledger of every chore.  
-
-A stanza is saved, then added with care,  
-A commit is a snapshot hanging in air.  
-First verse, then second, then third in a line,  
-The history window ticks like a clock's design.  
-
-Clone from a fork, or start with init,  
-The black shell waits for the words we submit.  
-Status, then add, then a message we choose,  
-So later we know which edits we used.  
-
-Knit to HTML, verses aligned,  
-Two trailing spaces keep each break assigned.  
-If the poem looks jammed into one long stream,  
-Those spaces restore the line-by-line dream.  
-
-Log is a diary, humble and small,  
-Four little commits that capture it all.  
-Close the project, open it new,  
-The Git tab wakes with a history view.  
-
-So here is a poem the workflow grew,  
-Twenty-odd lines of what git can do,  
-From empty headings to verses that stay,  
-Committed in order, then knitted away.  
